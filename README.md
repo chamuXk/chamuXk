@@ -40,7 +40,7 @@
 const chamudi = {
     role: "UI/UX Designer & Frontend Developer",
     education: "Software Engineering Undergraduate",
-    location: "Negombo, Sri Lanka 🇱🇰",
+    location: "Kandy, Sri Lanka 🇱🇰",
     
     currentFocus: {
         learning: ["React Native", "Advanced Figma", "Design Systems"],
