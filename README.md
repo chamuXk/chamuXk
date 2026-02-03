@@ -1,23 +1,24 @@
-<h1 align="center">Hi 👋, I'm Chamudi Kaushalya</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+<h1 align="center">Chamudi Kaushalya</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=4CC9F0&center=true&vCenter=true&width=520&lines=UI%2FUX+Designer;Frontend+Developer;Undergraduate+in+Software+Engineering;Designing+Clean+%26+User-Friendly+UIs"
-    alt="Typing Animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&pause=1000&color=00E6A8&center=true&vCenter=true&width=600&lines=UI%2FUX+Designer;Frontend+Developer;Undergraduate+in+Software+Engineering;Designing+Creative+%26+Professional+UIs" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chamuXk&label=Profile%20Views&color=brightgreen&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=chamuXk&label=Visitors&color=00E6A8&style=flat" />
 </p>
 
 ---
 
-## ✨ About Me
-- 🎓 Undergraduate in Software Engineering  
-- 🎨 UI/UX Designer with a creative & professional mindset  
-- 💻 Frontend Developer focused on responsive UI  
-- 🚀 Passionate about clean design & usability  
+## 🧑‍💻 About Me
+🎓 Undergraduate in Software Engineering  
+🎨 UI/UX Designer with a creative mindset  
+💻 Frontend Developer focused on clean & usable interfaces  
+✨ I love turning ideas into beautiful, functional UIs  
 
 ---
 
@@ -35,9 +36,9 @@
 
 ---
 
-## 📌 Featured Project
+## 🚀 Featured Project
 ### 🩺 Doctor Roster System
-A system designed to manage doctors’ schedules efficiently with a clean, user-friendly interface.
+A scheduling system designed to manage doctors’ duties efficiently with a user-friendly UI and smooth workflow.
 
 ---
 
@@ -48,10 +49,14 @@ A system designed to manage doctors’ schedules efficiently with a clean, user-
 
 ---
 
-## 📫 Contact Me
-- 💼 **LinkedIn:** https://linkedin.com/in/your-link-here  
-- ✉️ **Email:** your-email@example.com  
+## 🌐 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-link-here">LinkedIn</a> •
+  <a href="mailto:your-email@example.com">Email</a>
+</p>
 
 ---
 
-⭐ Thank you for visiting my profile!
+<p align="center">
+  ✨ Thanks for visiting my GitHub profile ✨
+</p>
